@@ -3,9 +3,9 @@ flask
 joblib
 scikit-learn
 
-if these have a curly underscore means have yet to import
-install it in the terminal with:
+# if these have a curly underscore means have yet to import
+# install it in the terminal with:
 
-pip install scikit-learn
+# pip install scikit-learn
 
-python app.py
+# python app.py
